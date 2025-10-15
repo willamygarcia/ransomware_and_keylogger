@@ -23,14 +23,14 @@ Este projeto é estritamente para fins acadêmicos e de pesquisa em segurança d
 - **SEMPRE** utilize um ambiente controlado e isolado, como uma Máquina Virtual (VM), para evitar danos reais.
 
 ## 📁 Estrutura do Projeto
-
+´´´bash
 ├── ransomware/
 │   ├── encryptor.py         # Script que criptografa arquivos
 │   └── decryptor.py         # Script para descriptografar os arquivos com a chave correta
 ├── keylogger/
 │   └── keylogger.py         # Script que captura e armazena as teclas digitadas
 └── README.md                # Este arquivo
-
+´´´
 
 
 ## 🤖 Simulações
