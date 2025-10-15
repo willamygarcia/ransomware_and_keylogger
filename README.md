@@ -76,7 +76,7 @@ Compreender o ataque é o primeiro passo para uma boa defesa. Abaixo estão algu
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/willamygarcia/ransomware_and_keylogger.git](https://github.com/willamygarcia/ransomware_and_keylogger.git)
+    git clone https://github.com/willamygarcia/ransomware_and_keylogger.git
     ```
 2.  **Configure o ambiente virtual (Recomendado):**
     ```bash
