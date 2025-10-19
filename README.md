@@ -36,10 +36,7 @@ Este projeto é estritamente para fins acadêmicos e de pesquisa em segurança d
 
 ### 1. Ransomware
 #### **Como funciona?**
-- O script `encryptor.py` varre um diretório pré-definido em busca de arquivos com extensões específicas (ex: `.txt`, `.jpg`).
-- Para cada arquivo encontrado, ele gera uma chave de criptografia e cifra o conteúdo do arquivo, tornando-o inacessível.
-- Uma mensagem de "resgate" é deixada no diretório, explicando o que aconteceu.
-- O script `decryptor.py` pode ser usado para reverter o processo, desde que a chave de criptografia correta seja fornecida.
+- O script `ransoware.py` recebe o diretorio e uma senha para criptografar os dados e esse mesmo arquivo pode descriptografar os dados mediante a senha informada
 
 #### **Vulnerabilidades Exploradas**
 - **Falta de Backups:** A eficácia do ransomware depende da inexistência de cópias de segurança dos arquivos.
