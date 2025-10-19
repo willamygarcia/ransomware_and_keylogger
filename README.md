@@ -25,8 +25,7 @@ Este projeto é estritamente para fins acadêmicos e de pesquisa em segurança d
 ## 📁 Estrutura do Projeto
 
 - ├── ransomware/
-- │   ├── encryptor.py         # Script que criptografa arquivos
-- │   └── decryptor.py         # Script para descriptografar os arquivos com a chave correta
+- │   ├── ransomware.py         # Script que criptografa arquivos e descriptografar os arquivos com a chave correta
 - ├── keylogger/
 - │   └── keylogger.py         # Script que captura e armazena as teclas digitadas
 - └── README.md                # Este arquivo
